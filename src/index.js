@@ -44,10 +44,6 @@ class Board extends React.Component {
   }
 }
 
-function PastMoves(props){
-
-}
-
 class Game extends React.Component {
   constructor(props){
     super(props);
